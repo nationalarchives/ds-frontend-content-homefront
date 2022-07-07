@@ -1,0 +1,141 @@
+.s_caption {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.7ex;
+	color: #330066
+}
+
+.s_body, td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.8ex;
+	color: #000000;
+}
+
+.s_bnumberheadings {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-transform: capitalize;
+	color: #666699
+}
+
+.s_titles {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #330066;
+	font-style: normal;
+}
+
+.s_default {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000000;
+}
+
+.time_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.5ex;
+	font-weight: 200;
+	color: #000000
+}
+
+.gloss_headings {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2ex;
+	font-weight: bold;
+	color: #000000;
+}
+
+.time_dates {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.7ex;
+	font-weight: bold;
+	color: #000000;
+}
+
+/* fix for nav bar spacing */
+.nav_fix {
+	font-size: 1px;
+}
+
+
+.transcript_text {
+	font-family: "Courier New", Courier, mono
+}
+
+
+.transcript_brace {
+	font-family: "Courier New", Courier, mono;
+	font-size: 200%
+}
+
+
+.small_link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.5ex;
+	color: #330066
+}
+
+.error {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #660000;
+	font-weight: bold
+}
+
+.required {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #CC0000;
+	font-weight: bold
+}
+
+
+.small_text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small
+}
+
+
+.diary_header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: medium;
+	font-weight: bold;
+	color: #666699
+}
+
+
+.diary_gallery {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 110%
+}
+
+
+.diary_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #993300;
+	font-weight: bold;
+	text-decoration: underline
+}
+
+
+.diary_text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.5ex;
+	font-weight: bold
+}
+
+
+.diary_textbox {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 100%;
+	height: 150px;
+}
+
+.diary_signup_header {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-weight: bold
+}
+
+.old_account {
+	color: #990000
+}
